@@ -1,0 +1,21 @@
+{
+  "name": "consultant-songbook-2025",
+  "version": "1.0.0",
+  "description": "The Consulent Songbook 2025 - CD project with lyrics, audio, and design materials",
+  "type": "module",
+  "scripts": {
+    "generate-design": "node design/generate_design_images.mjs"
+  },
+  "keywords": [
+    "music",
+    "concept-album",
+    "consulting",
+    "norway"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^4.72.0",
+    "dotenv": "^16.4.7"
+  }
+}

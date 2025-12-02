@@ -31,6 +31,37 @@ Dette katalogen inneholder tekst- og innholdsfiler for utgivelsen **The Consulen
    - Bruk `cd-label.md` til å plassere tekst i øvre og nedre bue på CD-en.  
    - Kontroller med trykkeriet hvilke mål og maler som gjelder.
 
+## Automated Image Generation
+
+You can automatically generate cover, back cover, and CD label images using AI:
+
+1. **Setup**  
+   ```powershell
+   cd C:\source\songbook
+   npm install
+   ```
+
+2. **Create `.env` file**  
+   Copy `.env.example` to `.env` and add your OpenAI API key:
+   ```
+   OPENAI_API_KEY=sk-...your-key-here...
+   ```
+
+3. **Generate images**  
+   ```powershell
+   npm run generate-design
+   ```
+
+   This will create:
+   - `images/cover/front.png`
+   - `images/cover/back.png`
+   - `images/cd-label/label.png`
+
+4. **Review and refine**  
+   - Check the generated images in `images/`.
+   - If needed, edit prompts in `design/generate_design_images.mjs` and re-run.
+   - Import final images into your layout tool (Word, Canva, InDesign).
+
 ## Kreditering og inspirasjon
 
 - Alle tekster er originalt skrevet av prosjektet bak **The Consulent Songbook 2025**.  
