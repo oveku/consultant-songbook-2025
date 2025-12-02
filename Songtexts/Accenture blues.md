@@ -1,3 +1,4 @@
+```text
 I walked in young with a dream in my hand
 They told me welcome to the biggest show in the land
 But behind those glass walls the elbows were sharp
@@ -38,3 +39,4 @@ But I pack my bag, take another long stride
 Hoping someday this road will open wide
 Till then I keep singing, nothing left to lose
 Just a tired consultant with the Accenture blues
+```

@@ -1,3 +1,4 @@
+```text
 Jeg kommer inn i bygget som et slag rett i lufta,
 varmen smeller i veggen som om kulturen vil klype og lufte opp luka.
 Her er faglig autoritet, her er null bullshit-trinn,
@@ -51,3 +52,4 @@ Miles i bygget, kulturen er real,
 tillit over alt, ja du vet hva vi feel.
 Work-life i balanse, det er sånn vi ruller,
 Miles-folka løfter — sammen blir vi fulle.
+```

@@ -1,3 +1,4 @@
+```text
 «Get the Future De Vil»
 
 Vers 1
@@ -94,3 +95,4 @@ for de som fortsatt står igjen
 Må de få den future de vil
 og ikke bare future du vil –
 og kanskje litt mer kjærlighet neste gang enn før.
+```

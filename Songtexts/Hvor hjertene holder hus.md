@@ -1,3 +1,4 @@
+```text
 Langs kysten står en gjeng som bygger drømmer hver en dag,
 med kaffekopper, latter, og en frihet som står i behag.
 Her løftes folk av folk, og ingen spisse albuer slår,
@@ -42,3 +43,4 @@ Her heies det på alle, og hver læringskurve står
 som fjell mot norske vinder når du tar et nytt steg vår.
 Her er ingen tomme fraser — bare mennesker som vil,
 og derfor, når du møter dagen, går du inn med ro og smil.
+```

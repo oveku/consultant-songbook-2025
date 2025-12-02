@@ -1,3 +1,4 @@
+```text
 Lite byråkrati og hjerner som får løpe fritt,
 Bekk gjør andre hus til sammenligning litt slitt.
 Faglig tungvekter, null bullsh** i gangen,
@@ -29,3 +30,4 @@ Bekk bygger folk, ikke fasader,
 her løfter du andre — og det løfter deg tilbake.
 Deling foran ego, trygghet foran spill,
 et sted som viser at konsulenthus faktisk kan være til.
+```

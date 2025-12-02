@@ -1,3 +1,4 @@
+```text
 De sier dette huset skinner over byen, fullt av lys og latter.
 Pingpongbord og tirsdagskake, slagord som flyr i taket.
 Du kommer inn som ny og kjenner deg som framtid på et fat,
@@ -37,3 +38,4 @@ Sopra Steria – opp eller ned, du vet aldri helt hvor du lander.
 Sopra Steria – gull på en dag, neste dag glipper det gjennom hender.
 Sopra Steria – læring og press, alt spinner rundt i samme sky.
 Sopra Steria – stedet du vokser, eller stedet som vokser fra deg på ny.
+```

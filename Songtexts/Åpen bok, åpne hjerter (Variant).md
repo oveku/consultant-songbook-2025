@@ -1,3 +1,4 @@
+```text
 Dyktige folk i gangen, du merker det med en gang
 latteren som løfter rommet, læring som blir sang.
 En ledelse som ser deg, som faktisk følger med,
@@ -22,3 +23,4 @@ Jeg kjenner at jeg hører til her, i dette åpne rom,
 hvor fellesskapet vokser, og fremtiden kommer som en storm.
 Vi bygger noe solid, mer enn tall og lønn og ord —
 et hjem, en retning, et levende bord.
+```
