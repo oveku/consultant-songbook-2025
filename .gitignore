@@ -20,3 +20,6 @@ build/
 # Logs
 *.log
 npm-debug.log*
+
+# Posts (personal content)
+posts/
