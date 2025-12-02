@@ -1,4 +1,5 @@
 # The Consulent Songbook 2025
+_A concept album and CD project about life inside Norwegian consulting firms._
 
 A creative music and storytelling project about life inside Norwegian consulting companies. This repository contains the full texts, audio tracks, and design materials for a CD/album called **"The Consulent Songbook 2025"**.
 
