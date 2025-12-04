@@ -1,6 +1,6 @@
 # The Consulent Songbook 2025
 
-En samling sanger skrevet av konsulenter, for konsulenter. Tekstene er basert på egne erfaringer og inntrykk fra norsk konsulentbransje, og takker samtidig jobbi.no for grundige beskrivelser av selskapene som inspirasjon.
+En samling sanger skrevet av konsulenter, for konsulenter. Tekstene er først og fremst AI-generert, men med minimale endringer basert på egne erfaringer og inntrykk fra norsk konsulentbransje. Takk til  jobbi.no for grundige beskrivelser av selskapene som inspirasjon.
 
 ---
 
@@ -8,7 +8,7 @@ En samling sanger skrevet av konsulenter, for konsulenter. Tekstene er basert p�
 
 Dette lille sangheftet hører til platen **The Consulent Songbook 2025**. Her finner du tekstene til alle sporene på albumet, sammen med en kort oversikt over de som har bidratt.
 
-Sangene er skrevet som små portretter av ulike konsulenthus – med varme, ærlighet og glimt i øyet. Alt innhold er originalt skrevet av prosjektet bak denne utgivelsen.
+Sangene er skrevet som små portretter av ulike konsulenthus – med varme, ærlighet og glimt i øyet. Alt innhold er originalt skrevet av prosjektet bak denne utgivelsen. 
 
 God lytting – og god lesning!
 
@@ -421,8 +421,9 @@ En spesiell takk går til alle konsulenthusene som – direkte eller indirekte �
 
 ## Tekniske detaljer
 
-- Innspilt: [studio/sted], 2025  
-- Produsent: [navn]  
-- Miks & mastering: [navn]  
+- Innspilt: Sandnes, 2025  
+- Produsent: oveku  
+- Miks & mastering: oveku
 - © 2025 The Consulent Songbook 2025  
 - Ikke til kommersielt salg; intern utgivelse for konsulentmiljøet.
+- Takk til Mjoff for inspirasjon og livsglede.
