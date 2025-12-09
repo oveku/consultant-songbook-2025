@@ -11,7 +11,8 @@ The Consulent Songbook 2025
 4. Hvor hjertene holder hus (Bouvet)  
 5. Miles i bygget  
 6. Norges beste – på papiret (Sopra Steria)  
-7. Åpen bok, åpne hjerter (Variant)
+7. Åpen bok, åpne hjerter (Variant)  
+8. Beneath the surface (Webstep) – _Bonus track_
 
 Gjerne med liten, jevn font og god luft mellom linjene.
 

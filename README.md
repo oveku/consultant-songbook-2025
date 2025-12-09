@@ -18,6 +18,7 @@ Folder: `Songtexts/`
 - `Miles i bygget.md`
 - `Norges beste – på papiret.md` (Sopra Steria)
 - `Åpen bok, åpne hjerter (Variant).md`
+- `Beneath the surface (Webstep).md` – _Bonus track_
 
 Each file contains the full lyrics for one song.
 
